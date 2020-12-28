@@ -1,0 +1,1 @@
+# trade_get_news_true_way
